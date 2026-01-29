@@ -16,7 +16,7 @@ var config = {
     use3dTerrain: true, //set true for enabling 3D maps.
     auto: false,
     title: 'Los humedales de España y la cerceta pardilla',
-    subtitle: 'Uno de los ecosistemas más frágiles en peligro. Una especie que depende ellos para sobrevivir.',
+    subtitle: 'Uno de los ecosistemas más frágiles en peligro. Una especie que depende de ellos para sobrevivir.',
     byline: 'Por Mara Hernández',
     footer: 'Referencias: <br> - Foto de la cerceta pardilla: By Lucas Benaiche - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=91303892 <br> - El resto de fotos de las cercetas pardillas han sido obtenidas de la página web del Proyecto Life Cerceta Pardilla. <br> - Fotos de los humedales realizadas por la autora. <br> - Datos obtenidos de GBIF.org (23 January 2026) GBIF Occurrence Download https://doi.org/10.15468/dl.geqt99, el Inventario Español de Zonas Húmedas y el Inventario de humedales catalanes, así como de los censos realizados por SEO Birdlife. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
